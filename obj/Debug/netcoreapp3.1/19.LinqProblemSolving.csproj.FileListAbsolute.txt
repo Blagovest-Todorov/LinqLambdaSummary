@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\bin\Debug\netcoreapp3.1\19.LinqProblemSolving.exe
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\bin\Debug\netcoreapp3.1\19.LinqProblemSolving.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\bin\Debug\netcoreapp3.1\19.LinqProblemSolving.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\bin\Debug\netcoreapp3.1\19.LinqProblemSolving.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\bin\Debug\netcoreapp3.1\19.LinqProblemSolving.dll
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\bin\Debug\netcoreapp3.1\19.LinqProblemSolving.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\obj\Debug\netcoreapp3.1\19.LinqProblemSolving.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\obj\Debug\netcoreapp3.1\19.LinqProblemSolving.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\obj\Debug\netcoreapp3.1\19.LinqProblemSolving.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\obj\Debug\netcoreapp3.1\19.LinqProblemSolving.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\obj\Debug\netcoreapp3.1\19.LinqProblemSolving.dll
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\obj\Debug\netcoreapp3.1\19.LinqProblemSolving.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\19.LinqProblemSolving\obj\Debug\netcoreapp3.1\19.LinqProblemSolving.genruntimeconfig.cache
